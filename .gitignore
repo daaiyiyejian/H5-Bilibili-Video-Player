@@ -1,0 +1,6 @@
+#git rm -r --cached
+*.idea*
+*__pycache__*
+*.pyc
+*node_modules*
+*.mp4
